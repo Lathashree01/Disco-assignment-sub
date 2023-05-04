@@ -18,5 +18,3 @@
   List Images:
   http://localhost:8000/hostimage/listimages/
   ```
-* Attaching dbsqllite uploaded for quick usage:
-* API set up from postman sent via mail
